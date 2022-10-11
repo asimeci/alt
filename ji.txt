@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
-Name=htop
-Exec=htop
+Name=
+Exec=
 StartupNotify=false
 Terminal=true

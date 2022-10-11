@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=htop
+Exec=htop
+StartupNotify=false
+Terminal=true

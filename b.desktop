@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=b
+Exec=/home/user/Desktop/b.sh | sh
+StartupNotify=false
+Terminal=true
